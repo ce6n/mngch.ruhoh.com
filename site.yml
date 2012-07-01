@@ -1,9 +1,9 @@
-title : Blog Title
-tagline: Blog Tagline
+title : mngch
+tagline: mongocharger
 author :
-  name : Firstname Lastname
+  name : Sebastian
   email : blah@email.test
-  github : username
+  github : mngch
   twitter : username
   feedburner : feedname
 
@@ -13,4 +13,4 @@ navigation :
   - categories.html
   - pages.html
   - about.md
-  
+
