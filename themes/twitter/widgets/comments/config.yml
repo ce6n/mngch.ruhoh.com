@@ -1,7 +1,7 @@
 # Settings for comments widget
 # Set 'layout' to the comment provider you want to use.
 # Set 'layout' to false to turn commenting off globally.
-layout : false
+layout : "false"
 disqus :
   short_name : ruhoh
 livefyre :
