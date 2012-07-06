@@ -1,0 +1,15 @@
+# Settings for comments widget
+# Set 'layout' to the comment provider you want to use.
+# Set 'layout' to false to turn commenting off globally.
+layout : false
+disqus :
+  short_name : ruhoh
+livefyre :
+  site_id : 123
+intensedebate :
+  account : 123abc
+facebook :
+  appid : 123
+  num_posts: 5
+  width: 580
+  colorscheme: light
