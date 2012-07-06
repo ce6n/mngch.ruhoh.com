@@ -1,11 +1,14 @@
 /* Override some defaults */
 html, body {
-  background-color: #eee;
+  background-color: #FDF6E3;
 }
 .navbar {
   margin-bottom: 0;
 }
-.navbar .container{ 
+
+img.aligncenter {display:block; margin:10px auto;}
+
+.navbar .container{
   width:940px;
 }
 .container > footer {
@@ -26,7 +29,11 @@ html, body {
   -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
      -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
+
+
 }
+
+
 
 /* Page header tweaks */
 .page-header {
@@ -41,7 +48,7 @@ html, body {
   padding-top:10px;
   border-top:3px solid #eee;
 }
-.post > h3.title span.date { 
+.post > h3.title span.date {
   position:absolute;
   right:0;
   font-size:0.9em;
@@ -66,7 +73,7 @@ html, body {
   float:left;
 }
 .tag_box a {
-  padding: 3px 6px;
+  padding: 20px 6px;
   margin: 2px;
   background: #eee;
   color:#005F6B;
