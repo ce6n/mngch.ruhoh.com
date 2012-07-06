@@ -1,5 +1,5 @@
 ---
-title:Obras Sociales
+title: Obras Sociales
 date: '2012-07-06'
 description:
 categories:
