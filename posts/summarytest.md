@@ -1,5 +1,5 @@
 ---
-title: welcome
+title: test
 date: '2012-07-01'
 description:
 categories:
@@ -10,14 +10,12 @@ Hopefully it will contain some usefull information for me and maybe other in the
 
 To remind myself how  to post new stuff here, now the code:
 
-<pre class="prettyprint">
+hahahabklabnsdlk
+
+jaslkdajsldkjaslkdja
+
+<pre>
 git add *
 git commit -a
 git push origin master
 </pre>
-
-<code class="prettyprint" class="linenums">
-git add *
-git commit -a
-git push origin master
-</code>

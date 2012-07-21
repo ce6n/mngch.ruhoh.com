@@ -7,7 +7,7 @@
     ],
 
     "widgets" : {
-      "google_prettify" : "twitter-bootstrap.css"
+      "google_prettify" : "sunburst.css"
     }
 
   },

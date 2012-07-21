@@ -1,11 +1,12 @@
 title : mngch
 tagline: mongocharger
+
 author :
   name : Sebastian
   email : blah@email.test
   github : mngch
   twitter : rauchenderhund
-  feedburner : 
+  feedburner :
 
 navigation :
   - archive.html
@@ -14,6 +15,3 @@ navigation :
   - pages.html
   - about.md
 
-posts :
-	summary_lines : 3
-	latest : 3
