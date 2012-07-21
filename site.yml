@@ -15,5 +15,5 @@ navigation :
   - about.md
 
 posts :
-	summary_lines : 30
-	latest : 5
+	summary_lines : 3
+	latest : 3
