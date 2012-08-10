@@ -2,7 +2,7 @@
 title: Wachalal
 date: '2012-07-07'
 description:
-categories:
+categories: Photo
 ---
 
 Ungefähr auf der Hälfte der Zeit hatten wir unser Zwischenseminar in Wachalal, einem kleinen Dorf...

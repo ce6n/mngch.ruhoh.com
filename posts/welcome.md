@@ -2,7 +2,7 @@
 title: welcome
 date: '2012-07-01'
 description:
-categories:
+categories: Housekeeping
 ---
 Heyho, this is the first post in my new ruhoh system. 
 

@@ -1,8 +1,8 @@
 ---
-title: energy usage
+title: Energy Usage
 date: '2012-07-21'
 description:
-categories:
+categories: Energy Monitoring
 ---
 
 # Live Energy Consumption

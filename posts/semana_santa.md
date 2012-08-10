@@ -2,7 +2,7 @@
 title: Semana Santa
 date: '2012-07-07'
 description:
-categories:
+categories: Photo
 ---
 
 <a href="{{urls.media}}/semana_santa/semana_santa1.jpg" rel="lightbox[semanasanta]" title=""><img class="aligncenter" src="{{urls.media}}/semana_santa/semana_santa1.jpg"></a>

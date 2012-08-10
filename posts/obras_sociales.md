@@ -2,7 +2,7 @@
 title: Obras Sociales
 date: '2012-07-06'
 description:
-categories:
+categories: Photo
 ---
 
 <img class="aligncenter" src="{{urls.media}}/obras/obras7.jpg">
