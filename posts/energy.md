@@ -16,3 +16,4 @@ Also a little documentation on how the system works is planned, but first some i
 
 As we got a three phase energy system here, there are three channels which are measured seperately. Now the quest is to identify the different devices in the data. Let's have look at channel 1. You can identify the fridge very well, due to the periodical intervals of about 100W, which are the times it is actually cooling. The Spikes up to 1800W are from the electric kettle (me preparing some tea) and the at nine o' clock (2700W) probably from taking a shower. 
 
+edit: I noticed that the the shower is taking a lot more energy than expected (around 18k W) so the 2700W Peak has to be something else...
