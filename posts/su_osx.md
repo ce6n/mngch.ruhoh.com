@@ -9,7 +9,8 @@ Howto install the open source seismic processing package on OSX Mountain Lion:
 (I'm using the actual beta version 43R2, if you have another version, maybe some changes will be necessary)
 
 ##Prerequisits:
-* a working compiler (xcode installed) and xserver/xquartz.
+* a working compiler (xcode installed) 
+* xserver/xquartz
 
 -------------
 Get the latest sourcecode from the [Seismic Unix Homepage](http://www.cwp.mines.edu/cwpcodes/) and put it into a directory in your home directory (in the example I use cwpsu):
@@ -31,7 +32,7 @@ export CWPROOT=/Users/sebastian/cwpsu
 export PATH=/Users/sebastian/cwpsu/bin:$PATH
 </pre>
 
-.bash\_profile is only used when opening a new shell, therefore use source to update the environmental variables now
+`.bash\_profile` is only used when opening a new shell, therefore use source to update the environmental variables now
 <pre class="prettyprint">
 source .bash_profile
 </pre>
