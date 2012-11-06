@@ -2,8 +2,10 @@
 title: Seismic Unix on OSX
 date: '2012-11-06'
 description:
-categories: osx,geophysics,seismic
+categories: osx; geophysics; seismic
 ---
+
+Seismic Unix is a nice tool for working with seismic data. 
 
 <img class="aligncenter" src="{{urls.media}}/seismic/suxwigb.jpg">
 
@@ -15,6 +17,7 @@ Howto install the open source seismic processing package on OSX Mountain Lion:
 * xserver/xquartz
 
 -------------
+##Procedure
 Get the latest sourcecode from the [Seismic Unix Homepage](http://www.cwp.mines.edu/cwpcodes/) and put it into a directory in your home directory (in the example I use `cwpsu`):
 
 <pre class="prettyprint">
