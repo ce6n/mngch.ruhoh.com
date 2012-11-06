@@ -31,7 +31,7 @@ export CWPROOT=/Users/sebastian/cwpsu
 export PATH=/Users/sebastian/cwpsu/bin:$PATH
 </pre>
 
-.bash_profile is only used when opening a new shell, therefore use source to update the environmental variables now
+.bash\_profile is only used when opening a new shell, therefore use source to update the environmental variables now
 <pre class="prettyprint">
 source .bash_profile
 </pre>
