@@ -50,7 +50,7 @@ cp configs/Makefile.config_Darwin_i386 Makefile.config
 
 Now you have to correct a little mistake in this file: Look for this line:
 <pre class="prettyprint">
-ENDIANFLAG = -DCWP_LITLE_ENDIAN
+ENDIANFLAG = -DCWP\_LITLE\_ENDIAN
 </pre>
 and replace it with this one:
 <pre class="prettyprint">
