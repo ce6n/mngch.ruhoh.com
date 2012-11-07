@@ -27,7 +27,7 @@ mkdir cwpsu
 
 Untar the archive:
 <pre class="prettyprint">
-tar -xvf cwp_su_all_43R2.tar
+tar -xvf cwp\_su\_all_43R2.tar
 </pre>
 
 Prepare your environment variables:
@@ -45,7 +45,7 @@ source .bash_profile
 Now copy the example config file for your system from the configs directory into the src directory
 <pre class="prettyprint">
 cd src
-cp configs/Makefile.config_Darwin_i386 Makefile.config
+cp configs/Makefile.config\_Darwin\_i386 Makefile.config
 </pre>
 
 Now you have to correct a little mistake in this file: Look for this line:
@@ -54,7 +54,7 @@ ENDIANFLAG = -DCWP\_LITLE\_ENDIAN
 </pre>
 and replace it with this one:
 <pre class="prettyprint">
-ENDIANFLAG = -DCWP_LITTLE_ENDIAN
+ENDIANFLAG = -DCWP\_LITTLE\_ENDIAN
 </pre>
 
 (this missing T cost me about an hour of troubleshooting...)
